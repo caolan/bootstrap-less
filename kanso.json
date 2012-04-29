@@ -1,7 +1,7 @@
 {
     "name": "bootstrap-less",
     "description": "Less files for bootstrap with images and javascript plugins, allowing you to modify the base variables and choose which parts to use before compiling to css on push",
-    "version": "2.0.1-kanso.1",
+    "version": "2.0.3-kanso.1",
     "attachments": [
         "bootstrap/img",
         "bootstrap/js"
